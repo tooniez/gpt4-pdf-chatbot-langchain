@@ -4,6 +4,10 @@ This monorepo is a customizable template example of an AI chatbot agent that "in
 
 This template is also an accompanying example to the book [Learning LangChain (O'Reilly)](https://www.oreilly.com/library/view/learning-langchain/9781098167271): Building AI and LLM applications with LangChain and LangGraph.
 
+> [!IMPORTANT]
+> This project is not actively maintained and is kept here for reference.
+> Please do not expect responses to new issues or pull requests.
+
 **Here's what the Chatbot UI looks like:**
 
 <img width="1096" alt="Screenshot 2025-02-20 at 05 39 55" src="https://github.com/user-attachments/assets/3a9ddea7-b718-476b-bdae-38839be20c12" />
